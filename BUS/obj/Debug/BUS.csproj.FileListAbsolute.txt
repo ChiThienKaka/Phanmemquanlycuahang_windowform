@@ -1,0 +1,11 @@
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\BUS\bin\Debug\BUS.dll
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\BUS\bin\Debug\BUS.pdb
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\BUS\bin\Debug\DAO.dll
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\BUS\bin\Debug\DTO.dll
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\BUS\bin\Debug\DAO.pdb
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\BUS\bin\Debug\DTO.pdb
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\BUS\obj\Debug\BUS.dll
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\BUS\obj\Debug\BUS.pdb

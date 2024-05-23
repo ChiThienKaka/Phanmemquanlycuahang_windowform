@@ -1,0 +1,6 @@
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DTO\bin\Debug\DTO.dll
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DTO\bin\Debug\DTO.pdb
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DTO\obj\Debug\DTO.dll
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DTO\obj\Debug\DTO.pdb

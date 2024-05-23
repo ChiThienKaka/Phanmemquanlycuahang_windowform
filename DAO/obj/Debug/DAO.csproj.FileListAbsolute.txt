@@ -1,0 +1,9 @@
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DAO\bin\Debug\DAO.dll
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DAO\bin\Debug\DAO.pdb
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DAO\bin\Debug\DTO.dll
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DAO\bin\Debug\DTO.pdb
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DAO\obj\Debug\DAO.dll
+D:\Nam2hk3_2022-2023\TieuLuanLapTrinhWindow3\TieuLuanLapTrinhWindow3\DAO\obj\Debug\DAO.pdb
